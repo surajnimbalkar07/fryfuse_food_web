@@ -457,7 +457,9 @@ section {
     header {
         padding: 10px 16px;
     }
-
+    header{
+        font-size:2rem;
+    }
     .home {
         grid-template-columns: 1fr;
         text-align: center;
