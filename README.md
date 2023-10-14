@@ -8,21 +8,20 @@ HTML5 CSS3 JavaScript
 https://boxicons.com/
 # Screenshots
 Dark Mode:
-![Screenshot 2023-10-14 142147](https://github.com/surajnimbalkar07/FryFuse_foodwebsite/assets/136218136/5f0b4a92-ebe0-426a-a9b4-28b25b48a4cc)
+![Screenshot 2023-10-14 142147](https://github.com/surajnimbalkar07/FryFuse_foodwebsite/assets/136218136/e9ba4c1d-d9c1-44e6-ab9d-ae541336e912)
 
-![Screenshot 2023-10-14 142059](https://github.com/surajnimbalkar07/FryFuse_foodwebsite/assets/136218136/e053d9f7-b5b3-40de-9216-578c15139e9a)
+![Screenshot 2023-10-14 142059](https://github.com/surajnimbalkar07/FryFuse_foodwebsite/assets/136218136/fe88c0a6-0052-42d6-bad5-ac0bbd233e55)
 
-![Screenshot 2023-10-14 142211](https://github.com/surajnimbalkar07/FryFuse_foodwebsite/assets/136218136/1f15d387-b6ec-40c5-9035-b24768d5d454)
+![Screenshot 2023-10-14 142211](https://github.com/surajnimbalkar07/FryFuse_foodwebsite/assets/136218136/951bf57a-8bcd-47a9-a66f-24166da8fd43)
 
 Light Mode:
+![Screenshot 2023-10-14 142242](https://github.com/surajnimbalkar07/FryFuse_foodwebsite/assets/136218136/dc3fc993-d601-402c-a858-ecee06ced93c)
+![Screenshot 2023-10-14 142316](https://github.com/surajnimbalkar07/FryFuse_foodwebsite/assets/136218136/0b935d51-2cea-4b10-9578-8d16a7f61eb0)
 
-![Screenshot 2023-10-14 142242](https://github.com/surajnimbalkar07/FryFuse_foodwebsite/assets/136218136/90152cd8-e14d-4e3e-9803-fa505938e52d)
-
-![Screenshot 2023-10-14 142316](https://github.com/surajnimbalkar07/FryFuse_foodwebsite/assets/136218136/33249520-754f-4eed-a3f7-ace535f32029)
 
 Mobile View:
-![Screenshot 2023-10-14 142423](https://github.com/surajnimbalkar07/FryFuse_foodwebsite/assets/136218136/5935ed4d-0c27-4422-8070-f4aae8ccb0cc)
+![Screenshot 2023-10-14 142536](https://github.com/surajnimbalkar07/FryFuse_foodwebsite/assets/136218136/6c00a21e-5e0d-474e-b109-ae782299a297)
 
-![Screenshot 2023-10-14 142536](https://github.com/surajnimbalkar07/FryFuse_foodwebsite/assets/136218136/56b21d22-2951-4a84-a1f9-66f4207181aa)
+![Screenshot 2023-10-14 142449](https://github.com/surajnimbalkar07/FryFuse_foodwebsite/assets/136218136/a9ff6147-bc24-4c99-8a55-519d736acc56)
 
-![Screenshot 2023-10-14 142449](https://github.com/surajnimbalkar07/FryFuse_foodwebsite/assets/136218136/c25f65cc-247b-471e-8077-04b231e01471)
+![Screenshot 2023-10-14 142423](https://github.com/surajnimbalkar07/FryFuse_foodwebsite/assets/136218136/18e3aaa7-cad9-4f2f-b7c1-d078073c47b1)
