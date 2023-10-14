@@ -4,7 +4,7 @@ Created food website using HTML, CSS, and JavaScript, offers both light and dark
 # Technologies Used
 HTML5 CSS3 JavaScript
 
-# Github page(see website here):
+# Github page(see website here)
 https://surajnimbalkar07.github.io/FryFuse_foodwebsite/
 
 # Sources
