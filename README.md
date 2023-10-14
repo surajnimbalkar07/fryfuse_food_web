@@ -3,9 +3,11 @@ Created food website using HTML, CSS, and JavaScript, offers both light and dark
 
 # Technologies Used
 HTML5 CSS3 JavaScript
-
+# Github page(see website here):
+https://surajnimbalkar07.github.io/FryFuse_foodwebsite/
 # Sources
 https://boxicons.com/
+
 # Screenshots
 Dark Mode:
 ![Screenshot 2023-10-14 142147](https://github.com/surajnimbalkar07/FryFuse_foodwebsite/assets/136218136/e9ba4c1d-d9c1-44e6-ab9d-ae541336e912)
