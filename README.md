@@ -1,4 +1,4 @@
-# OIBSIP_landingpage
+# FryFuse_foodwebsite
 Created food website using HTML, CSS, and JavaScript, offers both light and dark modes to cater to your preferred viewing experience.It adapts seamlessly to different screen sizes and devices, ensuring a delightful user experience on smartphones, tablets, and desktops.
 
 # Technologies Used
