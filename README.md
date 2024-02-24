@@ -5,7 +5,7 @@ Created food website using HTML, CSS, and JavaScript, offers both light and dark
 HTML5 CSS3 JavaScript
 
 # Github page(see website here)
-https://surajnimbalkar07.github.io/OIBSIP_landingpage/
+https://surajnimbalkar07.github.io/fryfuse_food_web/
 
 # Sources
 https://boxicons.com/
